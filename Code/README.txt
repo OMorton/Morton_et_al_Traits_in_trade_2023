@@ -2,6 +2,8 @@ READ ME
 
 Updated and final code versions after review will be uploaded to a public repository.
 
+Code to take and process the raw CITES data product can be found at Morton et al. (2022) Curr Bio.
+
 Obj1_Model_and_outputs 
 - Fits the data Traded_Traits_Data.csv and processes the outputs to reproduce all analyses ascociated with Obj1 in the main paper.
 - NOTE phylogenetic models take some time to run on a standard PC.

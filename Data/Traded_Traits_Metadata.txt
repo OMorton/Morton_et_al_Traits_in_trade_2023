@@ -1,0 +1,15 @@
+Traded traits metadata
+
+species - species names according to the Scheffers et al. 2019 database.
+Phyloname - species name on the Jetz et al. phylogeny.
+Order.X - taxonomic order.
+Family.X - taxonomic family.
+Bodymass - species bodymass from Bird et al. 2020
+Age_at_first_breeding - from Bird et al. 2020
+Max longevity - from Bird et al. 2020
+Name_update - from the Scheffers et al. data base (not used)
+Traded - logical variable of traded/not traded from Scheffers et al.
+CITES_name - species name in the CITES database
+Listing - is a species listed 
+Trade since 2000 - has a species been recorded in CITES traded since 2000 (see methods for exact definitions) 
+Trade since 2015 - has a species been recorded in CITES traded since 2015 (see methods for exact definitions)

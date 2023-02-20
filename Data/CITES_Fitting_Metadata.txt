@@ -1,0 +1,23 @@
+Metadata for CITES/Trait data
+
+Year - The year of trade (-2000 so 2003 = 3, 2020 - 20 etc.)
+Name_for_CITESdb - The species taxonomic name in the CITES trade data.
+WildSource - Is the trade wildsourced. See methods for exact definitions of this.
+IUCN_code - Time calibrated IUCN statuses
+Threat_code - IUCN codes converted into non-threatened, threatened and not assessed.
+Age_at_first_breeding - sourced from Bird et al. 2020
+Max_longevity - sourced from Bird et al. 2020
+Bodymass - sourced from Bird et al. 2020
+WildSourceB - a logical variable for source.
+WildThreat - a combined variable of source and threat. First letter denotes source (W = Wild, C = Captive), second part denotes threat (NA = Not assessed, NT = Non threatened, T = Threatened)
+Traded_vol - volume the species was traded in from that source that year. If no trade occured but it was a year the species was listed and therefore could have been recorded in trade its 0.
+lagN - 1-year lagged values of trade volume.
+SLogMaxlongevity - Logged and standardised Max_longevity. 
+SLogBodymass - Logged and standardised Bodymass.
+SLogFirstRepro - Logged and standardised Age_at_first_breeding.
+LogMaxlongevity - Logged Max_longevity. 
+LogBodymass - Logged Bodymass.
+LogFirstRepro - Logged Age_at_first_breeding.
+SYear - standardised Year
+Group - unique identifiers for each species and source combination.
+Name_for_phylo - taxonomic name used to match to the Jetz et al. phylogeny.

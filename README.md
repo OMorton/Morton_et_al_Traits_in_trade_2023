@@ -1,4 +1,4 @@
-## Morton_et_al_Traits_in_trade_2023
+## Morton et al. (2023) README 
 
 Deposited code and data for Morton et al. (2023) *Conservation Biology*, "Association of reproductive traits with captive- versus wild-sourced birds in trade", DOI: 10.1111/cobi.14076.
 
